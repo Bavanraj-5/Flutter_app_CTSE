@@ -1,6 +1,6 @@
 # bbcapp
 
-A customized bbc application.
+A basic flutter login & sign up application.
 
 ## Getting Started
 
